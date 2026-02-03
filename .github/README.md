@@ -1,5 +1,7 @@
 # Checklist para Criar Novo Projeto
 
+<img width="284" height="498" alt="image" src="https://github.com/user-attachments/assets/485a46f1-2053-44d4-bd1c-fc50ecede49e" />
+
 Ao criar um novo projeto a partir deste template, siga estes passos:
 
 ## ✅ Passos Iniciais
